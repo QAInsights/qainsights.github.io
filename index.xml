@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>qainsights | naveenkumar namachivayam</title>
-    <link>https://example.com/</link>
+    <link>https://qainsights.github.io/</link>
     <description>Recent content on qainsights | naveenkumar namachivayam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2020 23:22:11 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Sep 2020 23:22:11 -0400</lastBuildDate><atom:link href="https://qainsights.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Performance</title>
-      <link>https://example.com/posts/hello-performance/</link>
+      <link>https://qainsights.github.io/posts/hello-performance/</link>
       <pubDate>Tue, 22 Sep 2020 23:22:11 -0400</pubDate>
       
-      <guid>https://example.com/posts/hello-performance/</guid>
+      <guid>https://qainsights.github.io/posts/hello-performance/</guid>
       <description>Hello, Performance!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://qainsights.github.io/about/</link>
       <pubDate>Tue, 22 Sep 2020 21:05:33 +0530</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://qainsights.github.io/about/</guid>
       <description>My name is NaveenKumar Namachivayam. I am a performance engineer. I break stuffs. I know nothing.</description>
     </item>
     
