@@ -6,7 +6,16 @@
     <description>Recent content in Posts on qainsights | naveenkumar namachivayam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2020 23:22:11 -0400</lastBuildDate><atom:link href="https://qainsights.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Sep 2020 12:08:30 -0400</lastBuildDate><atom:link href="https://qainsights.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows Docker LoadRunner Developer</title>
+      <link>https://qainsights.github.io/posts/windows-docker-loadrunner-developer/</link>
+      <pubDate>Wed, 23 Sep 2020 12:08:30 -0400</pubDate>
+      
+      <guid>https://qainsights.github.io/posts/windows-docker-loadrunner-developer/</guid>
+      <description>&lt;p&gt;This docker image helps you to run LoadRunner Developer scripts in Windows container. LoadRunner Developer leverages DevWeb protocol, a brand new offering from Micro Focus.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Hello Performance</title>
       <link>https://qainsights.github.io/posts/hello-performance/</link>
