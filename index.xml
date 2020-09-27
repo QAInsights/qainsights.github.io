@@ -6,7 +6,73 @@
     <description>Recent content on qainsights | naveenkumar namachivayam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2020 11:45:03 -0400</lastBuildDate><atom:link href="https://qainsights.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2020 12:42:11 -0400</lastBuildDate><atom:link href="https://qainsights.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PerfAction JMeter</title>
+      <link>https://qainsights.github.io/posts/perfaction-jmeter/</link>
+      <pubDate>Sun, 27 Sep 2020 12:42:11 -0400</pubDate>
+      
+      <guid>https://qainsights.github.io/posts/perfaction-jmeter/</guid>
+      <description>&lt;p&gt;This GitHub Action helps to automate performance testing using Apache JMeter and its plugins.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LoadRunner Exercises</title>
+      <link>https://qainsights.github.io/posts/loadrunner-exercises/</link>
+      <pubDate>Sun, 27 Sep 2020 12:41:14 -0400</pubDate>
+      
+      <guid>https://qainsights.github.io/posts/loadrunner-exercises/</guid>
+      <description>&lt;p&gt;These exercises were designed to learn LoadRunner by doing. This exercise series is a part of Performance Testing Trilogy 🔺.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linux Docker LoadRunnerDeveloper</title>
+      <link>https://qainsights.github.io/posts/linux-docker-loadrunnerdeveloper/</link>
+      <pubDate>Sun, 27 Sep 2020 12:40:18 -0400</pubDate>
+      
+      <guid>https://qainsights.github.io/posts/linux-docker-loadrunnerdeveloper/</guid>
+      <description>&lt;p&gt;This docker image helps you to run LoadRunner Developer scripts in Linux container. LoadRunner Developer leverages DevWeb protocol, a brand new offering from Micro Focus.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Windows Docker WebTours</title>
+      <link>https://qainsights.github.io/posts/windows-docker-webtours/</link>
+      <pubDate>Sun, 27 Sep 2020 12:38:31 -0400</pubDate>
+      
+      <guid>https://qainsights.github.io/posts/windows-docker-webtours/</guid>
+      <description>&lt;p&gt;This docker file helps you to run Web Tours application in Windows container. Web Tours is the sample application to learn Micro Focus LoadRunner Professional.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Docker Netling</title>
+      <link>https://qainsights.github.io/posts/docker-netling/</link>
+      <pubDate>Sun, 27 Sep 2020 12:37:47 -0400</pubDate>
+      
+      <guid>https://qainsights.github.io/posts/docker-netling/</guid>
+      <description>&lt;p&gt;🙋‍♂️ What is Netling?&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Netling is a load tester client for easy web testing. It is extremely fast while using little CPU or memory. It is an open source project. Developed by Tore Lervik.
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>JMeter Streamlit</title>
+      <link>https://qainsights.github.io/posts/jmeter-streamlit/</link>
+      <pubDate>Sun, 27 Sep 2020 12:36:07 -0400</pubDate>
+      
+      <guid>https://qainsights.github.io/posts/jmeter-streamlit/</guid>
+      <description>&lt;p&gt;Apache JMeter is an open source load testing tool written in 100% pure Java. JMeter supports umpteen protocols including HTTP(S), FTP, SMTP, Web Services, JMS and much more. In JMeter, you can generate HTML results after you done with the execution or you can use Backend Listeners to monitor the runtime results.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Windows Docker JMeter Plugins</title>
+      <link>https://qainsights.github.io/posts/windows-docker-jmeter-plugins/</link>
+      <pubDate>Sun, 27 Sep 2020 12:35:15 -0400</pubDate>
+      
+      <guid>https://qainsights.github.io/posts/windows-docker-jmeter-plugins/</guid>
+      <description>This repo helps you to run Apache JMeter in your Windows container. It uses the JMeter on Windows Server Core with OpenJDK.
+Windows Docker Container for Apache JMeter and Plugins</description>
+    </item>
+    
     <item>
       <title>Docker JMeter Windows</title>
       <link>https://qainsights.github.io/posts/docker-jmeter-windows/</link>
