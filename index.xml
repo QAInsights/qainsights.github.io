@@ -6,7 +6,17 @@
     <description>Recent content on qainsights | naveenkumar namachivayam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2020 12:08:30 -0400</lastBuildDate><atom:link href="https://qainsights.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2020 11:45:03 -0400</lastBuildDate><atom:link href="https://qainsights.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker JMeter Windows</title>
+      <link>https://qainsights.github.io/posts/docker-jmeter-windows/</link>
+      <pubDate>Sun, 27 Sep 2020 11:45:03 -0400</pubDate>
+      
+      <guid>https://qainsights.github.io/posts/docker-jmeter-windows/</guid>
+      <description>This repo helps you to run Apache JMeter in your Windows container. It uses the JMeter on Windows Server Core with OpenJDK.
+Windows Docker for Apache JMeter</description>
+    </item>
+    
     <item>
       <title>Windows Docker LoadRunner Developer</title>
       <link>https://qainsights.github.io/posts/windows-docker-loadrunner-developer/</link>
