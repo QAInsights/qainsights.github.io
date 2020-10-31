@@ -6,7 +6,16 @@
     <description>Recent content on qainsights | naveenkumar namachivayam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2020 16:49:21 -0400</lastBuildDate><atom:link href="https://qainsights.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2020 16:09:33 -0400</lastBuildDate><atom:link href="https://qainsights.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔥 Performance Testing Certifications</title>
+      <link>https://qainsights.github.io/posts/performance-testing-certifications/</link>
+      <pubDate>Sat, 31 Oct 2020 16:09:33 -0400</pubDate>
+      
+      <guid>https://qainsights.github.io/posts/performance-testing-certifications/</guid>
+      <description>&lt;p&gt;This repository contains information about the performance testing and monitoring certifications.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>JEval for JMeter</title>
       <link>https://qainsights.github.io/posts/jeval-for-jmeter/</link>
